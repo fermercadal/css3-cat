@@ -1,2 +1,3 @@
-Pure CSS3 animated cat
-Author Fernando Mercadal https://fermercadal.github.io
+# Niro the cat
+
+Pure **CSS3** animated version of my cat _Niro_.
